@@ -9,6 +9,7 @@ The code assumes that the downloaded files are unarchived, and available in the 
 
 **Movie Review Data:**
 ```
+review_polarity/
 ├─── poldata.README.2.0
 ├─── txt_sentoken/
 │ ├─── pos/ cv999_13106.txt, cv998_14111.txt, ...
