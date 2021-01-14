@@ -5,7 +5,7 @@ Homework 1 for Natural Language Processing. Contains code for implementing a sen
 Two datasets are needed:
 - Pang and Lee movie review data, which can be downloaded from http://www.cs.cornell.edu/people/pabo/movie-review-data/ by clicking the "polarity dataset v2.0" link.
 - The Bing Liu sentiment lexicon, which can be downloaded from https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon by clicking the "A list of English positive and negative opinion words or sentiment words " link.
-The code assumes that the downloaded files are unarchived, and available in the following hierarchy, placed in the same directory as `hw1_1.ipynb1`.
+**The code assumes that the downloaded files are unarchived, and available in the following hierarchy, placed in the same directory as `hw1_1.ipynb1`.**
 
 **Movie Review Data:**
 ```
